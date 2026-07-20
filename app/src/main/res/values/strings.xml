@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">scrollit</string>
+    <string name="subtitle">Watch crown remote scroller</string>
+    <string name="open_accessibility_settings">Enable Accessibility Service</string>
+    <string name="accessibility_service_description">Scrollit receives scroll commands from your Pixel Watch and performs scroll gestures on the phone screen. Enable this service to allow your watch crown to control scrolling.</string>
+    <string name="instructions">1. Enable the Scrollit accessibility service above\n2. Open Scrollit on your watch\n3. Rotate the crown to scroll this phone\'s screen</string>
+</resources>
